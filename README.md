@@ -1,7 +1,7 @@
 # Work In Progress Code
 
 ### Unity
-* [MazeGenerator](https://github.com/mrcavd/WIPCode/tree/master/UnityC%23/MazeGenerator)
+* [MazeGenerator](https://github.com/mrcavd/Demo/tree/master/UnityC%23/MazeGenerator)
 
    MazeGenerator is an Unity3D asset. Manual on how to set each parameters of prefabs can be found in README inside.
    
