@@ -5,7 +5,7 @@
 
    MazeGenerator is an Unity3D asset. Manual on how to set each parameters of prefabs can be found in README inside.
    
-* [Scrap](https://github.com/mrcavd/Demo/tree/master/Scrap)
+* [Scrap](https://github.com/mrcavd/Demo/tree/master/UnityC%23/Scrap)
 
    Scraps are some previous project scripts.
    
