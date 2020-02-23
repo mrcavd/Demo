@@ -11,5 +11,5 @@
    
 ### Selenium
 
-   * [Demo.cs](https://github.com/mrcavd/WIPCode/blob/master/Selenium/Demo.cs) contains a basic set up for a test case.
+   * [Demo.cs](https://github.com/mrcavd/Demo/blob/master/Selenium/Demo.cs) contains a basic set up for a test case.
   
