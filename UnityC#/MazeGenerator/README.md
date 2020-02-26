@@ -6,9 +6,9 @@
 
 # Parameters
 1. Tile Width: Cell Size of Grid Layout Group.
-2. ~~Tile Count: The total number tiles initiating. ( Equals Maze Width * Maze Width )
+2. ~~Tile Count: The total number tiles initiating. ( Equals Maze Width * Maze Width )~~
 3. Grid Width: # of tiles spaning between opposite walls (including walls).
-4. ~~Maze Width: # of tiles on one side of the maze. ( Equals Grid Width + (Grid Width - 1) * (Quandrant Per Row - 1)
+4. ~~Maze Width: # of tiles on one side of the maze. ( Equals Grid Width + (Grid Width - 1) * (Quandrant Per Row - 1)~~
 5. Quadrant is each sub square inside the maze. 
 
    Quadrant Per Row: # of sub squares that made up one side of the maze
