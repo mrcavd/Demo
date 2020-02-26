@@ -112,9 +112,9 @@ public class MazeGridGenerator : MonoBehaviour
 
     public GameObject tile;
     public int tileWidth;
-    public int tileCount;
+    int tileCount;
     public int gridWidth;
-    public int mazeWidth;
+    int mazeWidth;
     public int quadrantPerRow;
     
 
@@ -128,6 +128,9 @@ public class MazeGridGenerator : MonoBehaviour
     {
         // make sure cellSize and RectTransform size is correct given
         // tileWidth & mazeWidth
+        mazeWidth = gridWidth + (gridWidth - 1) * (quadrantPerRow - 1);
+        tileCount = mazeWidth * mazeWidth;
+        
         float sideLength = tileWidth * mazeWidth;
         GetComponent<GridLayoutGroup>().cellSize = new Vector2(tileWidth, tileWidth);
         GetComponent<RectTransform>().sizeDelta = new Vector2(sideLength, sideLength);
