@@ -8,6 +8,9 @@
 * [Scrap](https://github.com/mrcavd/Demo/tree/master/UnityC%23/Scrap)
 
    Scraps are some previous project scripts.
+
+### Blender
+* A [python script](https://github.com/mrcavd/blender_2.8_lowpoly_script)  I've created this script for Blender 2.8 that create low poly block in 2 different complexities.
    
 ### Selenium
 
